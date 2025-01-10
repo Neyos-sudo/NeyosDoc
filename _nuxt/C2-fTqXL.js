@@ -1,0 +1,1 @@
+import{k as s,c as r,e as n,ah as o}from"./Dfa__v7-.js";const t={};function a(e,c){return r(),n("ul",null,[o(e.$slots,"default")])}const _=Object.assign(s(t,[["render",a]]),{__name:"ProseUl"});export{_ as default};
